@@ -1,0 +1,9 @@
+#calendarContainer,
+#organizerContainer {
+  float: left;
+  margin: 5px;
+}
+
+.cjslib-month, .cjslib-year, .cjslib-date{
+    width: 100%;
+}
